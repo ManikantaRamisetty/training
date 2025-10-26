@@ -1,0 +1,127 @@
+Home
+
+https://www.youtube.com/watch?v=DVEO9LdQcPA
+https://www.youtube.com/watch?v=9M-OcGUXzto
+
+electric : PolyCab
+MCP : LNT or Legrand
+Switches : GoldMedal or havells. (40+ rs /- quality good)
+Plubming : Polar or Jaquar (budget parryware or rack)
+water pipes : 
+Tiles : double charge tiles (scratch proof)
+granite or marble
+for steps : lapotra anti skid
+paints : 
+
+water proofing : doctor fixit
+
+Cement : walls & plasting 33 grade 
+		 Slab  : 43 grade cement
+Bricks : Red Burn bricks are good.
+Iron   : Vizag or Zindal (550)
+
+
+Mastri : 320 to 350 per sq feet
+
+with material : 2000 to 2300
+
+
+https://www.youtube.com/watch?v=PtXVOrnODvg
+
+1) Cement bags      - bag price 380 
+2) Sand             - 1 unit cost (3500)
+3) basement fill    - sand or baby chips (80,000)
+4) Brick            - 1 - 10 rs/-
+5) Cancara          - 1 unit cost (3500)
+	for puttings    - 40 mm cancara 
+	top             - 20 mm 
+6) Steel            - 1 ton 75,000
+7) Doors & Windows  - if take 4 laksh (per 3 bhk) 
+						if consider UPVC (-50,000)
+8) POP (false ceiling)
+9) tiles 
+10) Electric & Plumbing   - Ploycab
+11) Wallcare & Paintings  - 
+12) Bore                  - 
+13) Railing and Gate      - 75,000
+15) Cuboards              - 2,50,000
+16) Mastri cost           - 5 laks per 3 bhk
+
+Total per 3 bhk - 29,74,000 cost 
+
+house permissions and planning - 32,00,000 (32 lakhs)
+
+with material cost - per sq feet - 1500 sqfts * 2000 - 
+								 - 1500 sqfts * 2300
+								 - 1500 sqfts * 2500 premium
+								 
+								 
+Steel - https://www.youtube.com/watch?v=Lsjy0nOH_nY
+steeloncall - https://steeloncall.com/
+
+---------------------------------
+
+
+
+
+
+
+
+------------------
+
+https://github.com/mskrishna2808/jenkins-testing
+
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+https://drive.google.com/drive/folders/1aHt49zWJl6DwSJAMsCI24JugH2jtSy4O
+
+SUBNET cal : https://www.davidc.net/sites/default/subnets/subnets.html
+
+
+
+https://www.youtube.com/watch?v=xwUShacTjG0&list=PLCo6vu1MhylbrHQq0j_GbOKwQP40F2j6s
+
+
+https://jiomeetpro.jio.com/join?meetingId=0683810428&pwd=Mn5Mk
+
+
+
+ssh -i ~/my-ec2.ppk ec2-65-2-29-150.ap-south-1.compute.amazonaws.com
+
+AWS : https://drive.google.com/drive/folders/1DR_iY2a9Fj1gadjKNToLJTmpEikO2J7n?usp=sharing
+
+vmanoj2015@gmail.com
+
+
+886786@Mani
+
+
+shell-scripting-subnet-1 shell-scripting-subnet-2
+
+vpc-0c8b3c2dd0be227f9
+
+
+https://github.com/mskrishna2808/modules
+
+https://github.com/mskrishna2808/modules
+
+DeviceDiagnostic
+
+k8s : https://github.com/mskrishna2808/aws-eks-practice-module
+
+
+docker : https://hub.docker.com/
+
+my-test
+
+vpc-02c1b357b58cc47a5
+
+
+cluster : https://github.com/mskrishna2808/aws-eks-practice-module
+
+
+http://a27cb3c980ad8459a9b117fa905156b0-1564376130.us-east-1.elb.amazonaws.com/ to change url route53 (http://www.devopsexpert.in/)
+
+https://github.com/mskrishna2808/vpc-ec2-module
+
+https://www.msn.com/en-in/health/other/12-vegetarian-foods-rich-in-vitamin-b12/ss-BB1mmUJ0?ocid=msedgntp&pc=U531&cvid=f89e0e675dda4ceabbba380db33c9aae&ei=19#image=9
