@@ -1,0 +1,188 @@
+RabbitMQ is the most widely deployed open source message broker.
+
+https://roadmap.sh/
+
+React JS Events : https://react.dev/learn/responding-to-events
+
+jsx : https://jsx-notes.vercel.app/
+
+css - bulma.io free css - https://bulma.io/ 
+https://bulma.io/documentation/layout/hero/
+
+Unsplash to get images online
+
+https://unsplash.com/
+
+sirimani.smh@gmail.com - pwd phone nu 77
+
+https://api.unsplash.com/search/photos
+
+Access Key - v1sxdTNwTt7lhU78YH-2JmxOjY2-njbznNTQvzS5XX8
+Secret key - pa1hfO0Nje_gTXdOK9m9XnRebn_rDGGxoxI0nA-iDuo
+
+https://unsplash.com/documentation#public-authentication
+
+cars
+
+https://www.msn.com/en-in/news/india/semiconductor-sector-expected-to-generate-1l-jobs/ar-BB1kO7vQ?ocid=msedgdhp&pc=U531&cvid=40f38feeddcb4cb39e125ccb19ce22f9&ei=58
+
+
+
+
+
+https://react.dev/learn/passing-props-to-a-component
+
+https://medium.com/geekculture/is-there-any-reason-to-still-use-react-class-components-9b6a1e6aa9ef
+
+could create the component as a simple function that returns some JSX (hence its called a Functional Component)
+
+AI 
+https://www.msn.com/en-in/money/news/work-smarter-not-harder-10-ai-tools-that-can-help-make-your-job-easier-in-no-time/ar-AA1cXSiU?ocid=msedgdhp&pc=U531&cvid=269f4fb7730146c0a128a10d021f4dc8&ei=70
+
+React JS 
+
+
+Install NodeJS 
+once node js is installed need to run below cmds
+1) npm install : npm install -g npm
+2) yarn install: npm install --global yarn
+yarn -version
+create react project.
+npx create-react-app my-app
+it will create new react project my-app and install below dependencies 
+Installing react, react-dom, and react-scripts with cra-template...
+
+To include other components in your App.js file in a React application, you simply need to import those components and then use them within the App component's JSX. Here's an example of how you can include the LoginPage component from the previous example into your App.js:
+
+jsx
+Copy code
+import React from 'react';
+import LoginPage from './LoginPage'; // Assuming LoginPage.js is in the same directory
+
+const App = () => {
+  return (
+    <div className="App">
+      <h1>My App</h1>
+      <LoginPage />
+    </div>
+  );
+};
+
+export default App;
+In this example:
+
+We import the LoginPage component using the import statement. Make sure to provide the correct path to your component file.
+Then, inside the App component's JSX, we simply use the LoginPage component as if it were an HTML element. React will render the LoginPage component in place.
+You can include other components in a similar way by importing them and adding their JSX representations to your App component's render method.
+Make sure that the file paths are correct and that the components you're importing are exported correctly (using export default or named exports).
+
+
+Debugging a React app in Visual Studio Code (VS Code) involves setting up a launch configuration for your project. Here's a step-by-step guide on how to do it:
+
+Install Required Extensions:
+Make sure you have the following extensions installed in VS Code:
+
+"Debugger for Chrome" or "Debugger for Firefox" depending on your browser choice.
+Start Your React App in Debug Mode:
+Start your React app in development mode with debugging enabled. If you're using Create React App, you can start your app with the following command:
+
+bash
+Copy code
+npm start
+or
+
+bash
+Copy code
+yarn start
+Open Your React Project in VS Code:
+Open your React project folder in Visual Studio Code.
+
+Create a Launch Configuration:
+
+Click on the debug icon (or press Ctrl+Shift+D).
+
+Click on the gear icon to open launch.json.
+
+If you don't have any configurations, you'll see a prompt to create a launch.json file. Click on "Create a launch.json file" and select "Chrome" or "Firefox".
+
+If you already have a launch.json file, you can add a new configuration manually. Add a configuration similar to the following:
+
+json
+Copy code
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome", // or "firefox"
+      "request": "launch",
+      "name": "Launch Chrome",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
+Replace "url": "http://localhost:3000" with the URL of your React app if it's running on a different port.
+
+Set Breakpoints:
+Place breakpoints in your code where you want to pause execution for debugging. You can do this by clicking in the gutter area to the left of the line number in your code editor.
+
+Start Debugging:
+
+Go back to the debug view in VS Code.
+Click on the green play button (or press F5) to start debugging.
+Debugging Your React App:
+
+Once debugging starts, VS Code will open a new instance of Chrome or Firefox with debugging enabled.
+Interact with your React app as usual. When the code execution reaches a breakpoint, the debugger will pause, and you can inspect variables, step through code, and use other debugging features provided by VS Code.
+Stop Debugging:
+To stop debugging, you can click the red stop button in the debug view or simply close the browser window where your app is running.
+
+By following these steps, you can effectively debug your React app using Visual Studio Code.
+
+
+Git Commit
+
+Initialize a Git Repository:
+Open a terminal or command prompt, navigate to the folder you want to upload, and initialize a Git repository:
+
+bash
+Copy code
+cd your-folder-path
+git init
+Add Your Files to the Repository:
+Stage your folder and its contents to be committed to the repository:
+
+bash
+Copy code
+git add .
+Commit Your Changes:
+Commit your staged files with a descriptive message:
+
+bash
+Copy code
+git commit -m "Initial commit"
+Create a GitHub Repository (if you haven't already):
+
+Log in to your GitHub account.
+Click on the "+" icon in the top-right corner and select "New repository".
+Give your repository a name, optionally add a description, and choose whether it will be public or private. Then, click "Create repository".
+Add a Remote Repository:
+Add the GitHub repository as a remote:
+
+bash
+Copy code
+git remote add origin your-repository-url.git
+Replace your-repository-url.git with the URL of the repository you created on GitHub. You can find this URL on the repository page.
+
+Push Your Code to GitHub:
+Push your committed changes to GitHub:
+
+bash
+Copy code
+git push -u origin master
+This command pushes your code to the master branch of your GitHub repository. If you're using a different branch, replace master with the name of your branch.
+
+Verify Your Code on GitHub:
+Visit your GitHub repository page to verify that your code has been successfully pushed. You should see your folder and its contents listed in the repository.
+
+That's it! Your folder and its contents are now uploaded to GitHub. You can continue to make changes to your folder locally, commit those changes, and push them to GitHub as needed.
